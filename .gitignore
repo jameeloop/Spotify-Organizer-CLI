@@ -80,3 +80,23 @@ Thumbs.db
 # Temporary files
 *.tmp
 *.temp
+# IDE / caches
+.idea/
+.cache-spotify-organizer
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg*
+*.log
+
+# Envs
+.venv/
+venv/
+env/
+*.env
+
+# OS junk
+.DS_Store
+Thumbs.db
