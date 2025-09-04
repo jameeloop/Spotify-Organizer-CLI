@@ -24,7 +24,7 @@ A powerful command-line tool to help you organize your Spotify liked songs into 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/spotify-playlist-organizer.git
+git clone https://github.com/jameeloop/spotify-playlist-organizer.git
 cd spotify-playlist-organizer
 ```
 
