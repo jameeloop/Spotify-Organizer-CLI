@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ### 4. Run the application
 ```bash
-python main.py
+python3 main.py
 ```
 
 The app will prompt you for your Spotify credentials on first run and save them to a `.config` file for future use.
@@ -52,19 +52,19 @@ The app will prompt you for your Spotify credentials on first run and save them 
 
 ### Interactive Mode (Default)
 ```bash
-python main.py
+python3 main.py
 ```
 Shows the homepage with instructions, then starts the organizing process.
 
 ### Direct Organizing Mode
 ```bash
-python main.py --organize
+python3 main.py --organize
 ```
 Skips the homepage and starts organizing immediately.
 
 ### Help
 ```bash
-python main.py --help
+python3 main.py --help
 ```
 
 ## 🎮 Controls During Organization
